@@ -1,0 +1,1 @@
+# SAS-PROC-GENMOD-vs.-PROC-LOGISTIC-Wich-one-use
